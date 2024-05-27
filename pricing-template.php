@@ -43,21 +43,8 @@ get_header();
 
     $pricing_table_second_title = get_field( 'pricing_table_second_title' );
     $pricing_table_second_subtitle = get_field( 'pricing_table_second_subtitle' );
-
-
-
-
-
     $pricing_table_second_horizontal_head = get_field( 'pricing_table_second_horizontal_head' ); // REPEATER
     $pricing_table_second_horizontal_body = get_field( 'pricing_table_second_horizontal_body' ); // REPEATER
-
-
-
-
-
-
-
-
     $pricing_table_second_enable_or_disable = get_field( 'pricing_table_second_enable_or_disable' );
 
     $pricing_need_box_black_title = get_field( 'pricing_need_box_black_title' );
